@@ -1,3 +1,18 @@
 body {
-    background-color: whitesmoke;
+    margin: 0;
+}
+nav {
+    background-color: rgba(0, 0, 0, 7);
+    padding: 3px 0 3px 0;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+nav ul a {
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+    margin: 0 20px 0 20px;
+    font-size: 0.9rem;
 }
