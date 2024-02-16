@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+}
+nav {
+    background-color: rgba(0, 0, 0, 7);
+    padding: 3px 0 3px 0;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+nav ul a {
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+    margin: 0 20px 0 20px;
+    font-size: 0.9rem;
+}
+.manzana {
+    background-image: url(/logo.png);
+    width: 20px;
+    height: 20px;
+    background-size: 100% 100%;
+    display: block;
+}
+.foto-fondo-iphone {
+    text-align: center;
+    background-image: url(/iphone-15-producto.png);
+    min-height: 1000px;
+    background-position: center center;
+    background-size: 400px auto;
+    background-repeat: no-repeat;
+    background-color: black;
+    padding-top: 1px;
+}   
+.texto1 {
+    font-size: 1rem;
+    color: rgb(224, 137, 55);
+}
+.texto2 {
+    font-size: 1.7rem;
+    color: rgb(184, 177, 177);
+}
+.texto3 {
+    font-size: 2rem;
+    color: whitesmoke;
+}
+.boton {
+    background-color: rgb(0, 68, 255);
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px;
+    font-size: 16px;
+    cursor: pointer;
+    max-width: 100px;
+    margin: 0 auto;
+}
+.foto-fondo-ipad {
+    text-align: center;
+    background-image: url(/foto-ipad.png);
+    min-height: 1000px;
+    background-position: center center;
+    background-size: 400px auto;
+    background-repeat: no-repeat;
+    background-color: black;
+    padding-top: 1px;
+}
+.foto-fondo-mac {
+    text-align: center;
+    background-image: url(/foto-mac.png);
+    min-height: 1000px;
+    background-position: center center;
+    background-size: 400px auto;
+    background-repeat: no-repeat;
+    background-color: black;
+    padding-top: 1px;
+}
+.foto-fondo-airpods {
+    text-align: center;
+    background-image: url(/airpods.png);
+    min-height: 1000px;
+    background-position: center center;
+    background-size: 400px auto;
+    background-repeat: no-repeat;
+    background-color: black;
+    padding-top: 1px;
+}      
