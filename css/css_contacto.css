@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: black;
 }
 nav {
     background-color: rgba(0, 0, 0, 7);
@@ -22,4 +23,9 @@ nav ul a {
     height: 20px;
     background-size: 100% 100%;
     display: block;
+}
+.formulario {
+    color: white;
+    position: center center;
+    text-align: center;
 }

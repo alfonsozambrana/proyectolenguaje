@@ -16,6 +16,10 @@ nav ul a {
     margin: 0 20px 0 20px;
     font-size: 0.9rem;
 }
+header {
+    position: fixed;
+    width: 100%;
+}
 .manzana {
     background-image: url(/logo.png);
     width: 20px;
@@ -32,10 +36,11 @@ nav ul a {
     background-repeat: no-repeat;
     background-color: black;
     padding-top: 1px;
-}   
+}
 .texto1 {
     font-size: 1rem;
     color: rgb(224, 137, 55);
+    margin-top: 70px;
 }
 .texto2 {
     font-size: 1.7rem;
@@ -84,4 +89,4 @@ nav ul a {
     background-repeat: no-repeat;
     background-color: black;
     padding-top: 1px;
-}      
+}

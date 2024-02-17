@@ -11,9 +11,25 @@
         <nav>
           <ul>
             <li><a href="/index.html" class="manzana"></a></li>
-            <li><a href="#">Contáctanos</a></li>
+          <li><a href="/productos.html">Productos</a></li>
+          <li><a href="/contacto.html">Contacto</a></li>
           </ul>
         </nav>
     </header>
+    <div class="formulario">
+      <h2>¡Contacta con el equipo de Apple, resolveremos todos tus problemas!</h2>
+      <form action="/enviado.html" method="post">
+          <label for="nombre">Nombre:</label><br>
+          <input type="text" id="nombre" name="nombre" required><br>
+
+          <label for="email">Correo electrónico:</label><br>
+          <input type="email" id="email" name="email" required><br>
+
+          <label for="mensaje">Mensaje:</label><br>
+          <textarea id="mensaje" name="mensaje" rows="4" required></textarea><br>
+
+          <input type="submit" value="Enviar">
+      </form>
+  </div>
 </body>
 </html>
