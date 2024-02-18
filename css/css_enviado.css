@@ -24,9 +24,10 @@ nav ul a {
     background-size: 100% 100%;
     display: block;
 }
-.formulario {
+.texto1 {
+    font-size: 3rem;
     color: white;
-    position: center center;
+    margin-top: 60px;
     text-align: center;
 }
 .boton {
