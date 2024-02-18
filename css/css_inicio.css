@@ -21,7 +21,7 @@ header {
     width: 100%;
 }
 .manzana {
-    background-image: url(/logo.png);
+    background-image: url(/fotos/logo.png);
     width: 20px;
     height: 20px;
     background-size: 100% 100%;
@@ -29,7 +29,7 @@ header {
 }
 .foto-fondo {
     text-align: center;
-    background-image: url(/iphone-15-pro.png);
+    background-image: url(/fotos/iphone-15-pro.png);
     min-height: 1000px;
     background-position: center center;
     background-size: 400px auto;
