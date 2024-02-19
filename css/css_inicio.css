@@ -21,7 +21,7 @@ header {
     width: 100%;
 }
 .manzana {
-    background-image: url(/fotos/logo.png);
+    background-image: url(../fotos/logo.png);
     width: 20px;
     height: 20px;
     background-size: 100% 100%;
