@@ -21,7 +21,7 @@ header {
     width: 100%;
 }
 .manzana {
-    background-image: url(/fotos/logo.png);
+    background-image: url(../css/fotos/logo.png);
     width: 20px;
     height: 20px;
     background-size: 100% 100%;
@@ -29,7 +29,7 @@ header {
 }
 .foto-fondo-iphone {
     text-align: center;
-    background-image: url(/fotos/iphone-15-producto.png);
+    background-image: url(../css/fotos/iphone-15-producto.png);
     min-height: 1000px;
     background-position: center center;
     background-size: 400px auto;
@@ -62,7 +62,7 @@ header {
 }
 .foto-fondo-ipad {
     text-align: center;
-    background-image: url(/fotos/foto-ipad.png);
+    background-image: url(../css/fotos/foto-ipad.png);
     min-height: 1000px;
     background-position: center center;
     background-size: 400px auto;
@@ -72,7 +72,7 @@ header {
 }
 .foto-fondo-mac {
     text-align: center;
-    background-image: url(/fotos/foto-mac.png);
+    background-image: url(../css/fotos/foto-mac.png);
     min-height: 1000px;
     background-position: center center;
     background-size: 400px auto;
@@ -82,7 +82,7 @@ header {
 }
 .foto-fondo-airpods {
     text-align: center;
-    background-image: url(/fotos/airpods.png);
+    background-image: url(../css/fotos/airpods.png);
     min-height: 1000px;
     background-position: center center;
     background-size: 400px auto;
